@@ -30,8 +30,7 @@ jobs:
         run: |
           git config --global user.name 'LCY000'
           git config --global user.email '84628528+LCY000@users.noreply.github.com'
-          git add .
-          git diff-index --quiet HEAD || git commit -m "dist build"
+          git commit -am "dist build"
           git push
 
   release:
