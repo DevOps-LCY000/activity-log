@@ -34,11 +34,11 @@ jobs:
           git push
 
   test:
-    run-on: ubuntu-latest
-    default:
+    runs-on: ubuntu-latest
+    defaults:
       run:
         shell: bash
-    setups:
+    steps:
      - uses: actions/checkout@v4
      - name: Test index.js
        env:  
