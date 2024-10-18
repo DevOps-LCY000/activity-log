@@ -43,7 +43,7 @@ jobs:
      - name: Test index.js
        env:  
          INPUT_GITHUB_USERNAME: "LCY000"
-         INPUT_GITHUB_TOKEN: ${{ ACTION_SECRET_20241011 }}
+         INPUT_GITHUB_TOKEN: ${{ secrets.ACTION_SECRET_20241011 }}
          INTUT_TARGET_REPOS: '[DevOps-LCY000/activity-log]'
          INPUT_OUTPUT_STYLE: MARKDOWN
          INPUT_IGNORE_EVENTS: '[]'
