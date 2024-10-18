@@ -18,16 +18,70 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📥 Opened [PR #5](https://github.com/TheDanniCraft/activity-log/pull/5) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-2. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/13fe25b1695c655da2cbc03c2ac889b07534e9fa)
-3. ➕ Created a new branch [`follow-community-guidelines`](https://github.com/TheDanniCraft/activity-log/tree/follow-community-guidelines) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-4. 🆕 Opened an issue [#4](https://github.com/TheDanniCraft/activity-log/issues/4) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-5. 🗣 Commented on issue [#3](https://github.com/TheDanniCraft/activity-log/issues/3) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/3#issuecomment-2406889242)
-6. 🔀 Merged a PR in a private repo
-7. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-9. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-10. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 🆕 Opened an issue [#4](https://github.com/DevOps-LCY000/Github_Project/issues/4) in [DevOps-LCY000/Github_Project](https://github.com/DevOps-LCY000/Github_Project)
+2. 📝 Committed to [DevOps-LCY000/Github_Project](https://github.com/DevOps-LCY000/Github_Project/commit/eeddefcda5d51b8eeb5c446e5360df06d22de021)
+3. 📝 Committed to [DevOps-LCY000/Github_Project](https://github.com/DevOps-LCY000/Github_Project/commit/95c0368e8e474b505bfb30734ae42919a990458e)
+4. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/0ac38d4c6be886acf050cebf127bc72c68cbeeba)
+5. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/fdd6d4556af8215478f8f465aa93222f49beba9c)
+6. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/e17fe1b7869c4073be3572814cbe808e39492645)
+7. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/30e6dba9e82ac793a82fe4be8bc229eff90879dd)
+8. 📝 Committed to [LCY000/activity-log](https://github.com/LCY000/activity-log/commit/3bb5a8dfa6d67f1b53502138dcd920b34fb29acc)
+9. 📝 Committed to [LCY000/activity-log](https://github.com/LCY000/activity-log/commit/dfadec3ddf881b382a4ddfa2471537a22c8e1ed2)
+10. 📝 Committed to [LCY000/activity-log](https://github.com/LCY000/activity-log/commit/46be6092483daa8281157f086a963b523314c1b2)
+11. 📝 Committed to [LCY000/activity-log](https://github.com/LCY000/activity-log/commit/95d700fad7af9aa71de68e8b56f16f9a12324827)
+12. 📝 Committed to [LCY000/activity-log](https://github.com/LCY000/activity-log/commit/81f364e97f0bd33cd153a3021ffb0f9695e4902e)
+13. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+14. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/a15f28229d7427edcfa877a3b60e1a2a610339b7)
+15. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/def55bc559869dd9c7bdfa2f91c2a11d53940d02)
+16. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/d813aa37be544f3e00ff9476a29c2cac589ba18c)
+17. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/8f8f3d619b48778bab13372df3eec004d69f2322)
+18. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/1379161126650ee9f40865cf2ed6373a40dca355)
+19. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/f1bba6c172144befe1950ddb2ddb67e3b3a11a39)
+20. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/d34a6becbb5f82d2c9feac5de946de0e404e8098)
+21. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/bb38a8060ce9d4f7819256a05286f8844852f936)
+22. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/698c30ef29328e23c541a7cfd3c2fcabeec6f7fd)
+23. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/27f2e59674466641b38a21e37e4ee6ff5c3862a4)
+24. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/be1074a1770e68bccf61dc30ae5091192f30ad11)
+25. 📝 Committed to [DevOps-LCY000/activity-log](https://github.com/DevOps-LCY000/activity-log/commit/348b66942e2ffa0a19868b4214fba517679978a7)
+26. ❌ Closed an issue [#1](https://github.com/DevOps-LCY000/Github_Project/issues/1) in [DevOps-LCY000/Github_Project](https://github.com/DevOps-LCY000/Github_Project)
+27. 🗑️ Deleted a branch `2-as-repo-owner-i-want-github-to-automatically-update-readme-to-include-recent-activities` in [DevOps-LCY000/Github_Project](https://github.com/DevOps-LCY000/Github_Project)
+28. ➕ Created a new branch [`2-as-repo-owner-i-want-github-to-automatically-update-readme-to-include-recent-activities`](https://github.com/DevOps-LCY000/Github_Project/tree/2-as-repo-owner-i-want-github-to-automatically-update-readme-to-include-recent-activities) in [DevOps-LCY000/Github_Project](https://github.com/DevOps-LCY000/Github_Project)
+29. 🗑️ Deleted a branch `2-as-repo-owner-i-want-github-to-automatically-update-readme-to-include-recent-activities` in a private repo
+30. ❌ Closed an issue in a private repo
+31. 📝 Committed to a private repo
+32. 🔀 Merged a PR in a private repo
+33. 📥 Opened a PR in a private repo
+34. 📝 Committed to a private repo
+35. 📝 Committed to a private repo
+36. ➕ Created a new branch `2-as-repo-owner-i-want-github-to-automatically-update-readme-to-include-recent-activities` in a private repo
+37. 🆕 Opened an issue in a private repo
+38. ❌ Closed an issue in a private repo
+39. 📝 Committed to a private repo
+40. 🎉 Created a new private repository
+41. ➕ Created a new branch `main` in a private repo
+42. ❌ Closed an issue in a private repo
+43. 🆕 Opened an issue in a private repo
+44. 🆕 Opened an issue in a private repo
+45. ➕ Created a new branch `main` in a private repo
+46. 🎉 Created a new private repository
+47. ➕ Created a new branch `2-discrete-mathematics-midterm-exam-preparation` in a private repo
+48. 🗑️ Deleted a branch `2-discrete-mathematics-midterm-exam-preparation` in a private repo
+49. ➕ Created a new branch `2-discrete-mathematics-midterm-exam-preparation` in a private repo
+50. 🗑️ Deleted a branch `Zenhub_Project#2-test` in a private repo
+51. 🗑️ Deleted a branch `2-discrete-mathematics-midterm-exam-preparation` in a private repo
+52. ➕ Created a new branch `2-discrete-mathematics-midterm-exam-preparation` in a private repo
+53. ➕ Created a new branch `Zenhub_Project#2-test` in a private repo
+54. 📝 Committed to a private repo
+55. ➕ Created a new branch `main` in a private repo
+56. 🎉 Created a new private repository
+57. 🆕 Opened an issue in a private repo
+58. 🆕 Opened an issue in a private repo
+59. 📝 Committed to a private repo
+60. ➕ Created a new branch `main` in a private repo
+61. 🎉 Created a new private repository
+62. ➕ Created a new branch `KAN-10-learn` in a private repo
+63. ➕ Created a new branch `main` in a private repo
+64. 🎉 Created a new private repository
 <!--END_SECTION:activity-->
 
 ## 📖Usage
