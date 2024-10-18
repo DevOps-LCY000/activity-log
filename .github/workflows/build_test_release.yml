@@ -32,6 +32,7 @@ jobs:
           git config --global user.email '84628528+LCY000@users.noreply.github.com'
           git commit -am "dist build"
           git push
+
   test:
     run-on: ubuntu-latest
     default:
@@ -50,6 +51,7 @@ jobs:
          INPUT_COMMIT_MESSAGE: Update README.md
          INPUT_EVENT_LIMIT: '100'
        run: node ./dist/index.js
+
   release:
     runs-on: ubuntu-latest
     needs: build
