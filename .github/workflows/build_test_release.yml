@@ -1,4 +1,4 @@
-name: Build and Release
+name: build_test_release
 
 on:
   workflow_dispatch: # Allows manual triggering
@@ -32,6 +32,25 @@ jobs:
           git config --global user.email '84628528+LCY000@users.noreply.github.com'
           git commit -am "dist build"
           git push
+  test:
+    run-on: ubuntu-latest
+    default:
+      run:
+        shell: bash
+    setps:
+     - uses: actions/checkout@v4
+     - name: Test index.js
+       env:  
+         INPUT_GITHUB_USERNAME: "LCY000"
+         INPUT_GITHUB_TOKEN: ${{ ACTION_SECRET_20241011 }}
+         INTUT_TARGET_REPOS: '[DevOps-LCY000/activity-log]'
+         INPUT_OUTPUT_STYLE: MARKDOWN
+         INPUT_IGNORE_EVENTS: '[]'
+         INPUT_README_PATH: README.md
+         INPUT_COMMIT_MESSAGE: Update README.md
+         INPUT_EVENT_LIMIT: '100'
+        run: node ./dist/index.js
+
 
   release:
     runs-on: ubuntu-latest
